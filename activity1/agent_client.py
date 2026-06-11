@@ -28,7 +28,7 @@ identity = """
 # Test identity
 response = client.models.generate_content(
     model='gemini-3.1-flash-lite',
-    contents = "How do I make a sandwich?",
+    contents = "Whats the important part of any computer?",
     config=types.GenerateContentConfig(
         system_instruction=identity
     )
