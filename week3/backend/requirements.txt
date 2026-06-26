@@ -1,0 +1,9 @@
+fastapi>=0.115.0
+uvicorn>=0.34.0
+python-multipart>=0.0.20
+pydantic>=2.11.5
+google-genai>=1.16.0
+qdrant-client>=1.13.3
+llama-index-core>=0.14.23
+llama-index-embeddings-google>=0.4.2
+python-dotenv>=1.0.1
